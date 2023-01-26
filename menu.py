@@ -1,3 +1,5 @@
+#this is not part of the main program, was using this for fleshing out an idea that was a bad one in the end but I don't remember why.
+
 MENU = {"soda", "fries", "burger", "shake", "cookie", "chicken tendies"}
 
 def get_order():
