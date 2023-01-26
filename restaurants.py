@@ -1,4 +1,3 @@
-#another idea that didn't work
 import time
 import random
 import csv
